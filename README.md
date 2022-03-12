@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SnehashreeHazra
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ML
 
 <!---
 SnehashreeHazra/SnehashreeHazra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
