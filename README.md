@@ -6,7 +6,7 @@
 💻 I am currently working with React.js, Tailwind CSS, and Framer Motion on building modern, responsive web interfaces—and gradually integrating backend functionality into my projects.<br>🤝 I am looking to collaborate on full-stack projects that involve frontend finesse and basic backend logic.<br>🧠 I am looking for help with backend integration, API design, and managing state in large-scale React apps.<br>📚 I am currently learning Next.js, Node.js, and backend basics to grow as a full-stack developer.<br>💬 Ask me about responsive design, UI building in React, frontend animations, and how to structure your project from frontend to backend.<br>📫 How to reach me **snehashreehazra783@gmail.com**<br>🎨 Fun Fact: I’m a big fan of Demon Slayer and Haikyuu!!, and I enjoy solving layout and responsiveness challenges.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehashree-hazra-51ba64225/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehashreehazra783@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/snehashree90/)
