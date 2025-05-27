@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snehashree Hazra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehashreehazra&label=Profile%20views&color=0e75b6&style=flat" alt="snehashreehazra" /> </p>
 
 # 💫 About Me:
 💻 I am currently working with React.js, Tailwind CSS, and Framer Motion on building modern, responsive web interfaces—and gradually integrating backend functionality into my projects.<br>🤝 I am looking to collaborate on full-stack projects that involve frontend finesse and basic backend logic.<br>🧠 I am looking for help with backend integration, API design, and managing state in large-scale React apps.<br>📚 I am currently learning Next.js, Node.js, and backend basics to grow as a full-stack developer.<br>💬 Ask me about responsive design, UI building in React, frontend animations, and how to structure your project from frontend to backend.<br>📫 How to reach me **snehashreehazra783@gmail.com**<br>🎨 Fun Fact: I’m a big fan of Demon Slayer and Haikyuu!!, and I enjoy solving layout and responsiveness challenges.
