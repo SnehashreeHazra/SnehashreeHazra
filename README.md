@@ -3,7 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B0B8D4&center=true&width=1350&lines=A+passionate+React-Native+developer+from+India" alt="Typing SVG" /></a>
 
 # 🎯 Quick Intro
-💻 I am currently working with React.js, Tailwind CSS, WordPress and Framer Motion on building modern, responsive web interfaces—and gradually integrating backend functionality into my projects.<br>🤝 I am looking to collaborate on full-stack projects that involve frontend finesse and basic backend logic.<br>🧠 I am looking for help with backend integration, API design, and managing state in large-scale React apps.<br>📚 I am currently learning Next.js, Node.js, and backend basics to grow as a full-stack developer.<br>💬 Ask me about responsive design, UI building in React, frontend animations, and how to structure your project from frontend to backend.<br>📫 How to reach me **snehashreehazra783@gmail.com**<br>🎨 Fun Fact: I’m a big fan of watching anime.
+📱 Building React Native applications focused on clean UI, performance, and smooth user experience.
+🐍 Learning Python with FastAPI to develop scalable, high-performance backend APIs.
+🤝 Interested in full-stack mobile projects combining strong frontend and efficient backend logic.
+💬 Ask me about React Native, API integration, and FastAPI basics.
+📫 snehashreehazra783@gmail.com
 
 
 # 🌐 Socials:
