@@ -7,7 +7,7 @@
 🐍 Learning Python with FastAPI to develop scalable, high-performance backend APIs.
 🤝 Interested in full-stack mobile projects combining strong frontend and efficient backend logic.
 💬 Ask me about React Native, API integration, and FastAPI basics.
-📫 snehashreehazra783@gmail.com
+📫 snehashreehazra783@gmail.com 
 
 
 # 🌐 Socials:
