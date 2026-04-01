@@ -1,5 +1,5 @@
 ![logo](https://github.com/SnehashreeHazra/SnehashreeHazra/blob/main/WhatsApp%20Image%202025-05-27%20at%2011.53.44_1617304b.jpg)
-<h1 align="center">Hi 👋, I'm Sneha</h1>
+<h1 align="center">Hi 👋, I'm Snehashree</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B0B8D4&center=true&width=1350&lines=A+passionate+Full-Stack+developer+from+India" alt="Typing SVG" /></a>
 
 
