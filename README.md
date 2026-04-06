@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B0B8D4&center=true&width=1350&lines=A+passionate+Full-Stack+developer+from+India" alt="Typing SVG" /></a>
 
 
+
 # 🎯 Quick Intro
 📱 Building React Native applications focused on clean UI, performance, and smooth user experience.
 🐍 Learning Python with FastAPI to develop scalable, high-performance backend APIs.
