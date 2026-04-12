@@ -4,7 +4,6 @@
 
 
 
-
 # 🎯 Quick Intro
 📱 Building React Native applications focused on clean UI, performance, and smooth user experience.
 🐍 Learning Python with FastAPI to develop scalable, high-performance backend APIs.
