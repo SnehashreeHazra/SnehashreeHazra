@@ -1,80 +1,71 @@
-![logo](https://github.com/SnehashreeHazra/SnehashreeHazra/blob/main/WhatsApp%20Image%202025-05-27%20at%2011.53.44_1617304b.jpg)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=B0B8D4&height=120§ion=header&text=Snehashree%20Hazra&fontSize=36&fontColor=fff&animation=fadeIn)
 
-<h1 align="center">Hi 👋, I'm Snehashree</h1>
-
-<p align="center">
-🚀 Full Stack Developer | Backend-Focused | AWS Certified  
-</p>
+<h3 align="center">Full Stack Developer · React Native · FastAPI · AWS Certified</h3>
 
 <p align="center">
-Building scalable applications, production-grade APIs, and real-world mobile apps.
+  <a href="https://www.linkedin.com/in/snehashreehazra1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:snehashreehazra783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/snehashree90/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/AWS-CLF--C02%20Certified-FF9900?logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-# 🔥 About Me
-💻 Full Stack Developer with **1.5 years of production experience**  
-📱 Built and contributed to a **live React Native app on Play Store**  
-⚙️ Strong in **backend engineering (FastAPI, Node.js)**  
-☁️ Experience with **AWS, CI/CD, Docker, and cloud deployments**  
-🚀 Focused on building **scalable, secure, and performance-driven systems**  
+### 👩‍💻 About me
+
+- 📱 Built and shipped a **React Native app live on Google Play Store**
+- 🐍 Full stack developer working across **React Native · React JS · FastAPI · TypeScript**
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — deploying on EC2, containerising with Docker
+- ⚙️ Set up **CI/CD pipelines with GitHub Actions** for automated builds and deployments
+- 🔍 Currently exploring scalable backend architecture with **microservices + FastAPI**
+- 📫 Reach me at **snehashreehazra783@gmail.com**
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 🚀 Frontend
-React.js • React Native • TypeScript • JavaScript • HTML • CSS • Tailwind CSS  
+**Mobile & Frontend**
+<br/>
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### ⚙️ Backend
-Python (FastAPI) • Node.js • Express.js • REST APIs • JWT Auth • SQLAlchemy ORM  
+**Backend & Databases**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### 🗄️ Database
-MongoDB • Relational DB Design  
-
-### ☁️ DevOps & Cloud
-AWS (EC2, IAM) • Docker • GitHub Actions (CI/CD) • SSH  
-
-### 🧰 Tools
-Git • GitHub • Postman • VS Code  
-
----
-
-# 💼 What I’ve Built
-
-🔹 **E-Commerce Backend API**  
-→ 20+ REST endpoints (products, orders, users)  
-→ JWT authentication & role-based access  
-→ MVC architecture + error handling  
-
-🔹 **Expense Tracker (Full Stack)**  
-→ FastAPI + React + Docker  
-→ Authentication + analytics dashboard  
-→ SQLAlchemy ORM + category filtering  
-
-🔹 **CI/CD Pipeline (AWS)**  
-→ Automated build, test, deploy using GitHub Actions  
-→ AWS EC2 deployment with secure IAM setup  
+**DevOps & Cloud**
+<br/>
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
-# 📫 Connect With Me
-📧 snehashreehazra783@gmail.com  
-🔗 https://www.linkedin.com/in/snehashreehazra/  
-💻 https://github.com/SnehashreeHazra  
+### 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| 📱 **[React Native App](https://play.google.com/store)** | React Native, TypeScript | Live on Google Play Store |
+| 🛒 **[E-Commerce Backend API](https://github.com/SnehashreeHazra)** | Node.js, Express, MongoDB, JWT | MVC architecture, CI/CD via GitHub Actions |
+| 💸 **[Expense Tracker](https://github.com/SnehashreeHazra)** | FastAPI, React, SQLAlchemy, Docker | Full stack, containerised |
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SnehashreeHazra&theme=transparent&hide_border=true&include_all_commits=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SnehashreeHazra&theme=transparent&hide_border=true)<br/>
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SnehashreeHazra&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=SnehashreeHazra&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashreeHazra&theme=transparent&hide_border=true&layout=compact)
 
 ---
 
-# 🏆 Achievements
-🏅 AWS Certified Cloud Practitioner  
-📱 Production React Native App (Play Store)  
-🚀 Built scalable APIs & deployed cloud systems  
-
----
+[![](https://visitcount.itsvg.in/api?id=SnehashreeHazra&icon=0&color=0)](https://visitcount.itsvg.in)
