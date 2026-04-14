@@ -56,7 +56,7 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 📱 **[React Native App]([https://play.google.com/store](https://play.google.com/store/apps/details?id=com.projectfh&pcampaignid=web_share))** | React Native, TypeScript | Live on Google Play Store |
+| 📱 **[React Native App](https://play.google.com/store](https://play.google.com/store/apps/details?id=com.projectfh&pcampaignid=web_share)** | React Native, TypeScript | Live on Google Play Store |
 | 🛒 **[E-Commerce Backend API](https://github.com/SnehashreeHazra/Ecommerce_Backend_API)** | Node.js, Express, MongoDB, JWT | MVC architecture, CI/CD via GitHub Actions |
 | 💸 **[Expense Tracker](https://github.com/SnehashreeHazra/expense-tracker-python-fastapi)** | FastAPI, React, SQLAlchemy, Docker | Full stack, containerised |
 
