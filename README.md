@@ -7,6 +7,8 @@
   <a href="mailto:snehashreehazra783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/snehashree90/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/AWS-CLF--C02%20Certified-FF9900?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/776%2B%20Contributions%20in%202025-00b4d8?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -54,9 +56,9 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 📱 **[React Native App](https://play.google.com/store)** | React Native, TypeScript | Live on Google Play Store |
-| 🛒 **[E-Commerce Backend API](https://github.com/SnehashreeHazra)** | Node.js, Express, MongoDB, JWT | MVC architecture, CI/CD via GitHub Actions |
-| 💸 **[Expense Tracker](https://github.com/SnehashreeHazra)** | FastAPI, React, SQLAlchemy, Docker | Full stack, containerised |
+| 📱 **[React Native App]([https://play.google.com/store](https://play.google.com/store/apps/details?id=com.projectfh&pcampaignid=web_share))** | React Native, TypeScript | Live on Google Play Store |
+| 🛒 **[E-Commerce Backend API](https://github.com/SnehashreeHazra/Ecommerce_Backend_API)** | Node.js, Express, MongoDB, JWT | MVC architecture, CI/CD via GitHub Actions |
+| 💸 **[Expense Tracker](https://github.com/SnehashreeHazra/expense-tracker-python-fastapi)** | FastAPI, React, SQLAlchemy, Docker | Full stack, containerised |
 
 ---
 
