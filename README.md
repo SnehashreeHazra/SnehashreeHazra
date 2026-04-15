@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:8b5cf6&height=200&section=header&text=Snehashree%20Hazra&fontSize=42&fontColor=fff&animation=twinkling&desc=Building%20things%20with%20React%20Native%20%2B%20FastAPI&descAlignY=75&descSize=18)
+![banner](https://capsule-render.vercel.app/api?type=egg&color=0:7c3aed,100:c084fc&height=200&text=Snehashree%20Hazra&fontSize=42&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20Native%20%7C%20FastAPI&descAlignY=75&descSize=16)
 
 <h3 align="center">Full Stack Developer · React Native · FastAPI · AWS Certified</h3>
 
