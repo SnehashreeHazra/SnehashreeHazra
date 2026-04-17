@@ -63,9 +63,8 @@
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SnehashreeHazra&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=SnehashreeHazra&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashreeHazra&theme=transparent&hide_border=true&layout=compact)
+![](https://streak-stats.demolab.com?user=SnehashreeHazra&theme=transparent&hide_border=true)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=SnehashreeHazra&icon=0&color=0)](https://visitcount.itsvg.in)
