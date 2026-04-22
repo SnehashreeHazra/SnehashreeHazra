@@ -15,6 +15,7 @@
 
 ### 👩‍💻 About me
 
+
 - 📱 Built and shipped a **React Native app live on Google Play Store**
 - 🐍 Full stack developer working across **React Native · React JS · FastAPI · TypeScript**
 - ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — deploying on EC2, containerising with Docker
