@@ -7,7 +7,7 @@
   <a href="mailto:snehashreehazra783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/snehashree90/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
   <a href="https://www.hackerrank.com/profile/snehashreehazra"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS-CLF--C02%20Certified-FF9900?logo=amazonaws&logoColor=white"/>
+  <a href="https://www.udemy.com/certificate/UC-bd5bb72f-e31a-4477-adf7-aeeb5120388b/"><img src="https://img.shields.io/badge/AWS-CLF--C02%20Certified-FF9900?logo=amazonaws&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat&logo=checkmarx&logoColor=white"/>
   <img src="https://img.shields.io/badge/776%2B%20Contributions%20in%202025-00b4d8?style=flat&logo=github&logoColor=white"/>
 </p>
